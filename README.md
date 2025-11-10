@@ -38,10 +38,22 @@ Here’s a visual preview of the *Adventures of the Shuriken* 3D platformer proj
 ![In-game Sea](images/In-game-Sea.png)
 
 ### Power-ups
-![PowerUps](images/PowerUps.png)
+![PowerUps](images/Powerups.png)
 
 ### Environment Assets
 ![Environment Assets](images/Environment-Assets.png)
+
+### Collectables
+![Shuriken Collectable](images/Shuriken-Collectable.png)
+
+### HealthBar
+![HealthBar](images/HealthBar.png)
+
+### Character Model
+![Ninja](images/Character-Model.png)
+
+### Spider Enemy
+![Spider Enemy](images/Spider-Enemy.png)
 
 🎥 For a full gameplay demo, you can watch the video here:  
 [Watch on YouTube](https://youtu.be/YOUR_VIDEO_ID)
