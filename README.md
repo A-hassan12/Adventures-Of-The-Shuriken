@@ -1,6 +1,8 @@
 # Adventures of the Shuriken 🎮
 A 3D platformer game developed in Unity, designed and implemented as part of my BSc Final Year Project.
 
+Link to my portfolio showcasing the devlopment and gameplay - https://drive.google.com/file/d/1lk9wuTGTaLTnBNV4KQCDVpycvHmPqryX/view?usp=drive_link
+
 ### 🧠 Key Features
 - Three fully playable levels with progressive difficulty  
 - Custom 3D models designed in Maya and Blender  
