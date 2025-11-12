@@ -14,7 +14,7 @@ Unity | Unreal Engine | C# | Blender | Autodesk Maya | Git | Gantt Charts (Proje
 ### 🏆 Grade: 1st Class
 Solo developed as part of my BSc in Multimedia Technology and Design at the University of Kent.
 
-📚 Link to my portfolio showcasing the devlopment and gameplay - https://drive.google.com/file/d/1lk9wuTGTaLTnBNV4KQCDVpycvHmPqryX/view?usp=drive_link
+📚 Link to my portfolio showcasing the devlopment and gameplay - https://drive.google.com/drive/folders/1obR3XBl9FaUkE8Tdjz2r9ZUI8qmyLafJ?usp=drive_link
 
 📚 Link to my project report - https://drive.google.com/file/d/1lVp5ULnVYRTpoBvyRPqBPT6kizQieowQ/view?usp=drive_link
 
