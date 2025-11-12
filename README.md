@@ -56,5 +56,5 @@ Here’s a visual preview of the *Adventures of the Shuriken* 3D platformer proj
 ![Spider Enemy](images/Spider-Enemy.png)
 
 🎥 For a full gameplay demo, you can watch the video here:  
-[Watch on YouTube](https://youtu.be/YOUR_VIDEO_ID)
+[My Portfolio](https://drive.google.com/file/d/1lk9wuTGTaLTnBNV4KQCDVpycvHmPqryX/view?usp=drive_link)
 
